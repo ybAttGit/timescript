@@ -12,6 +12,7 @@
   "keywords": [],
   "author": "yehonathan_bar_ilan",
   "license": "ISC",
+  "types": "./dist/@types",
   "devDependencies": {
     "@babel/preset-env": "^7.24.1",
     "@babel/preset-typescript": "^7.24.1",
