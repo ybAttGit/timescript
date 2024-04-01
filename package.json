@@ -1,6 +1,6 @@
 {
   "name": "@yehonathan_bar_ilan/timescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/index.js",
   "type": "module",
   "scripts": {
